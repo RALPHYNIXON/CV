@@ -8,11 +8,8 @@ body {
 h1,
 h2,
 h3,
-h4{
-    font-size:20px;
-    margin:0px;
-h5
-margin:0px; {
+h4,
+h5 {
   font-family: georgia;
   font-weight: 300;
 }
@@ -38,38 +35,39 @@ h3 {
 
 h4 {
   font-size: 20px;
+  margin: 0px;
 }
 
 h5 {
   font-size: 16px;
 }
 
-.left{
-    display:inline-block;
-    width:24%;
-    vertical-align: top;
+.left {
+  display: inline-block;
+  width: 24%;
+  vertical-align: top;
 }
 
-.right{
-    display:inline-block;
-    width:74%;
+.right {
+  display: inline-block;
+  width: 74%;
 }
 
-#info .left{
-
-    width:59%;
+#info .left {
+  width: 59%;
 }
 
-#info .right{
-    margin-top: 60px;
-    width:39%;
-
-.work-title-left{
-    display-inline-block
-    width:74%
+#info .right {
+  margin-top: 60px;
+  width: 39%;
 }
 
-.work-title-right{
-    display-inline-block
-    width:24%
+.work-title-left {
+  display: inline-block;
+  width: 74%;
+}
+
+.work-title-right {
+  display: inline-block;
+  width: 24%;
 }
