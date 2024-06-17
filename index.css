@@ -1,0 +1,75 @@
+body {
+  font-family: lucida sans unicode;
+  font-weight: 200;
+  background-color: blanchedalmond;
+  color: #333333;
+}
+
+h1,
+h2,
+h3,
+h4{
+    font-size:20px;
+    margin:0px;
+h5
+margin:0px; {
+  font-family: georgia;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 40px;
+  color: #004279;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-size: 22px;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h3 {
+  font-size: 20px;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+.left{
+    display:inline-block;
+    width:24%;
+    vertical-align: top;
+}
+
+.right{
+    display:inline-block;
+    width:74%;
+}
+
+#info .left{
+
+    width:59%;
+}
+
+#info .right{
+    margin-top: 60px;
+    width:39%;
+
+.work-title-left{
+    display-inline-block
+    width:74%
+}
+
+.work-title-right{
+    display-inline-block
+    width:24%
+}
