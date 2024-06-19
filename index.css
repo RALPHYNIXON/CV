@@ -13,7 +13,12 @@ h5 {
   font-family: georgia;
   font-weight: 300;
 }
-
+.imgcont {
+  display: inline;
+}
+.image-t {
+  display: inline;
+}
 h1 {
   font-size: 40px;
   color: #004279;
